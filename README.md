@@ -32,11 +32,39 @@ This workshop is a shortened version of the full [OSDC](https://osdc.code-maven.
 
 ### Day 1
 
+* Day 1 - 2023.03.29  15:00-19:00
+
 * Introduction to the Open Source development process using GitHub (forking and pull-request).
 * Continuous Integration (CI) to ensure different contributors don't interfere with each-other.
 
-* [DEV.to](https://dev.to/)
-* [Forem in GitHub](https://github.com/forem/)
+* Old way in open source:
+    * start from the code you have (but it might have been already outdated)
+    * change code
+    * use `diff` to created  diff-file (also called a patch).
+    * send the diff to developer of the project or to the mailing list of the project if it had one.
+    * Use the `patch` command to integrated the changed to the most recent version of the source code.
+
+* We discussed how GutHub with the idea of forking made this process much easier.
+
+* We saw the fork, pull-request process in a drawing.
+
+* We saw a few Pull-Request in the [Forem in GitHub](https://github.com/forem/) project (the platform on which [DEV.to](https://dev.to/) runs).
+
+* We saw how to accept a Pull-Request in the [Kantoniko - Ladino dictionary](https://kantoniko.com/) project.
+
+* We discussed the 3 ways to accept a pull-request.
+    * Create a merge commit
+    * Squash and merge
+    * Rebase and merge
+
+* We created a Pull-Request adding a JSON file to our website.
+
+* We hadd issues enabling workflow and checked the [GitHub Status](https://www.githubstatus.com/) page. GitHub Actions was basically down.
+
+
+* [Video-1](https://youtu.be/AZXlVekU2zs)
+* [Video-2](https://youtu.be/lxuDJxM7IHE)
+* [Video-3](https://youtu.be/MklaxNvqJF0)
 
 
 ### Day 2
@@ -64,7 +92,4 @@ No programming background is required. People without programming background wil
 Gabor Szabo has been writing software since 1983, working in the hi-tech industry since 1993, teaching software development since 2000, contributing to open source since 2002.
 He is the author of the [Code Maven](https://code-maven.com/) web site. Check out his [GitHub profile](https://github.com/szabgab/).
 
-## Schedule
-
-* Day 1 - 2023.03.29  15:00-19:00
 
