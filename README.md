@@ -35,6 +35,10 @@ This workshop is a shortened version of the full [OSDC](https://osdc.code-maven.
 * Introduction to the Open Source development process using GitHub (forking and pull-request).
 * Continuous Integration (CI) to ensure different contributors don't interfere with each-other.
 
+* [DEV.to](https://dev.to/)
+* [Forem in GitHub](https://github.com/forem/)
+
+
 ### Day 2
 
 * The wealth of GitHub (Issues, diffs, blame, insights, watching, stars)
