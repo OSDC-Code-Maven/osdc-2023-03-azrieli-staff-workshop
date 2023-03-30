@@ -61,6 +61,9 @@ This workshop is a shortened version of the full [OSDC](https://osdc.code-maven.
 
 * We hadd issues enabling workflow and checked the [GitHub Status](https://www.githubstatus.com/) page. GitHub Actions was basically down.
 
+* We discussed a few examples of [GitHub Actions](https://code-maven.com/github-actions) (Bash, Python, and Postgres)
+
+
 
 * [Video-1](https://youtu.be/AZXlVekU2zs)
 * [Video-2](https://youtu.be/lxuDJxM7IHE)
