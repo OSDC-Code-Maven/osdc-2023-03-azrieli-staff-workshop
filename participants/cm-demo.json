@@ -1,0 +1,13 @@
+{
+    "name": "CM Demo",
+    "github": "cm-demo",
+    "gitlab": "cm-demo",
+    "posts": [
+        {
+            "url": "https://dev.to/szabgab/open-source-development-courses-5d4b"
+        },
+        {
+            "url": "https://dev.to/szabgab/local-development-environment-for-the-datatable-r-project-5fhb"
+        }
+    ]
+}
