@@ -72,6 +72,8 @@ This workshop is a shortened version of the full [OSDC](https://osdc.code-maven.
 
 ### Day 2
 
+* Why do people develop Open Source projects?
+* Why do corporations develop Open Source software?
 * The wealth of GitHub (Issues, diffs, blame, insights, watching, stars)
 * Create Github pages - Creating a free website using Markdown and static site generators.
 
