@@ -72,12 +72,24 @@ This workshop is a shortened version of the full [OSDC](https://osdc.code-maven.
 
 ### Day 2
 
+* Day 2 - 2023.05.15  15:00-18:00
+
+* [GitFlow](https://code-maven.com/slides/git/git-flow)
+* [Git Workflow](https://code-maven.com/slides/git/git-workflows) - single branch, Continuous Integration
+* Git commit, push, staging
+* What is a fork (historically, in GitHub it is friendly)
+* What is a branch
+
 * Why do people develop Open Source projects?
 * Why do corporations develop Open Source software?
-* The wealth of GitHub (Issues, diffs, blame, insights, watching, stars)
-* Create Github pages - Creating a free website using Markdown and static site generators.
+
+* [Video 2-1](https://youtu.be/ZqfnW8sgOxw)
+* [Video 2-2](https://youtu.be/cw4zlIVzw5Q)
 
 ### Day 3
+
+* The wealth of GitHub (Issues, diffs, blame, insights, watching, stars)
+* Create Github pages - Creating a free website using Markdown and static site generators.
 
 * Docker - containerization for easier on-boarding and to reduce the risk of executing unknown code on our system.
 
