@@ -7,6 +7,9 @@
 ## TOC
 
 * [Day 1](#day-1)
+* [Day 2](#day-2)
+* [Day 3](#day-3)
+* [Day 4](#day-4)
 
 ## Videos
 
@@ -72,7 +75,7 @@ This workshop is a shortened version of the full [OSDC](https://osdc.code-maven.
 
 ### Day 2
 
-* Day 2 - 2023.05.15  15:00-18:00
+* Day 2 - 2023.05.15  15:00-19:00
 
 * [GitFlow](https://code-maven.com/slides/git/git-flow)
 * [Git Workflow](https://code-maven.com/slides/git/git-workflows) - single branch, Continuous Integration
@@ -87,6 +90,8 @@ This workshop is a shortened version of the full [OSDC](https://osdc.code-maven.
 * [Video 2-2](https://youtu.be/cw4zlIVzw5Q)
 
 ### Day 3
+
+* Day 3 - 2023.06.19  14:00-18:00
 
 * The wealth of GitHub (Issues, diffs, blame, insights, watching, stars)
 * Create Github pages - Creating a free website using Markdown and static site generators.
